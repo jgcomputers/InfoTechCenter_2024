@@ -41,7 +41,7 @@ def gasLevelAlert():
         print("Your gas tank is a half of a tank full, which is plenty to get to your destination.")
     elif gasLevelIndicator == "Three Quarter Tank":
         print("Your gas tank is at Three Quarter Tank.")
-     else:
+    else:
         print("Your gas tank is Full.")
     
         

@@ -41,7 +41,7 @@ def vehicleResponseSystem():
               "weather conditions.")
         print("VRS has been engaged only allowing you to drive 30mps")
     else:
-        print("\nNational Weather Service forecasts ", weatherAlert, "weather conditions.")
+        print("\nNational Weather Service forecasts", weatherAlert, "weather conditions.")
         print("VRS has been disengaged! Drive at your own risk.")
 
 
